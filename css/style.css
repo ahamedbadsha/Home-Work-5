@@ -1,0 +1,30 @@
+.head{
+	min-height: 80px;
+	background-color: black;
+}
+.wrappar{
+	overflow: hidden;
+	border: 1px solid black;
+}
+.blog{
+	min-height: 150px;
+	background-color: green;
+	width: 33.4%;
+	float: left;
+}
+.skill{	
+	min-height: 150px;
+	background-color: red;
+	width: 33.3%;;
+	float: left;
+}
+.contect{
+		min-height: 150px;
+	background-color: orange;
+	width:33.3%;;
+	float: left;
+}
+.footer{
+	height: 150px;
+	background-color: darkcyan;
+}
